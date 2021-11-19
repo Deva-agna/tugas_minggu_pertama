@@ -75,7 +75,7 @@ mean(List<int> data) {
   // alternatif 1
   // kalau for loop dan tidak membutuhkan index bisa pakai in pada for loop
   // var sum = 0;
-  // for (var i in data) {
+  // for (int i in data) {
   //   sum += i;
   // }
   // return sum / data.length;
